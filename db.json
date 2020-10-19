@@ -1,0 +1,214 @@
+{
+  "users": [
+    {
+      "id": 8,
+      "email": "lindsay.ferguson@reqres.in",
+      "first_name": "Lindsay",
+      "last_name": "Ferguson",
+      "subjectId": 1
+    },
+    {
+      "id": 9,
+      "email": "tobias.funke@reqres.in",
+      "first_name": "Tobias",
+      "last_name": "Funke",
+      "subjectId": 2
+    },
+    {
+      "last_name": "Isaac",
+      "first_name": "Jacob",
+      "email": "rantai.ti@gmail.com",
+      "subjectId": "2",
+      "id": 12
+    },
+    {
+      "last_name": "Isaac",
+      "first_name": "Jacob",
+      "email": "rantai.ti@gmail.com",
+      "subjectId": "2",
+      "id": 13
+    },
+    {
+      "": "",
+      "id": 44
+    },
+    {
+      "": "",
+      "id": 46
+    },
+    {
+      "": "",
+      "id": 48
+    },
+    {
+      "": "",
+      "id": 50
+    },
+    {
+      "": "",
+      "id": 52
+    },
+    {
+      "": "",
+      "id": 54
+    },
+    {
+      "": "",
+      "id": 56
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 57
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 58
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 59
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 60
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 61
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 62
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 63
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 64
+    },
+    {
+      "": "",
+      "id": 65
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 66
+    },
+    {
+      "": "",
+      "id": 67
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 68
+    },
+    {
+      "": "",
+      "id": 69
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 70
+    },
+    {
+      "": "",
+      "id": 71
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 72
+    },
+    {
+      "": "",
+      "id": 73
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 74
+    },
+    {
+      "": "",
+      "id": 75
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 76
+    },
+    {
+      "": "",
+      "id": 77
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 78
+    },
+    {
+      "": "",
+      "id": 79
+    },
+    {
+      "email": "lebohang.mofokeng@gmail.com",
+      "subjectId": "2",
+      "id": 80
+    },
+    {
+      "last_name": "Soni",
+      "first_name": "Tom",
+      "email": "tom@ymail.com",
+      "subjectId": "2.0",
+      "id": 81
+    },
+    {
+      "last_name": "Rantai",
+      "first_name": "Thabang",
+      "email": "thabang@ymail.com",
+      "subjectId": "2.0",
+      "id": 82
+    },
+    {
+      "last_name": "Masimla",
+      "first_name": "Bongani",
+      "email": "bongani@gmail.com",
+      "subjectId": "1.0",
+      "id": 83
+    },
+    {
+      "last_name": "Mokoena",
+      "first_name": "Lehlohonolo",
+      "email": "lehlohonolo@gmail.com",
+      "subjectId": "1.0",
+      "id": 84
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Development Software"
+    },
+    {
+      "id": 2,
+      "name": "Information Systems"
+    },
+    {
+      "": "",
+      "id": 3
+    }
+  ]
+}
